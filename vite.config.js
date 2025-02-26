@@ -8,4 +8,8 @@ export default defineConfig({
             refresh: true,
         }),
     ],
+    build: {
+        outDir: 'public/build', // Ensures Vercel finds assets
+        emptyOutDir: true,
+    }
 });
