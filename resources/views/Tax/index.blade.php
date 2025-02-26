@@ -409,7 +409,7 @@
                             </div>
 
                             <div class="col-sm-8 children">
-                                <label for="noofchildless18" class="form-label paddingleft">No of Child (<18)< /label>
+                                <label for="noofchildless18" class="form-label paddingleft">No of Child (<18)</label>
                             </div>
 
 
