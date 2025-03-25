@@ -9,7 +9,7 @@ export default defineConfig({
         }),
     ],
     build: {
-        outDir: 'public/build', // Ensures Vercel finds assets
+        outDir: 'public/build', // Ensures assets are placed in the correct directory
         emptyOutDir: true,
     }
 });
